@@ -1,2 +1,3 @@
 console.log("free coffe"); 
-ще шо небудь
+console.log("free eklers");
+
